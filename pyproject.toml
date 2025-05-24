@@ -1,0 +1,28 @@
+[project]
+name = "exp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "anbima-calendar>=0.1.1",
+    "brazilian-holidays>=0.1.20",
+    "fastparquet>=2024.11.0",
+    "holidays>=0.73",
+    "ipykernel>=6.29.5",
+    "ipywidgets>=8.1.7",
+    "matplotlib>=3.10.3",
+    "nltk>=3.9.1",
+    "pandarallel>=1.6.5",
+    "pandas>=2.2.3",
+    "psycopg2-binary>=2.9.10",
+    "scikit-learn>=1.6.1",
+    "seaborn>=0.13.2",
+    "sqlalchemy>=2.0.41",
+    "yfinance>=0.2.61",
+]
+
+[dependency-groups]
+dev = [
+    "basedpyright>=1.29.1",
+]
