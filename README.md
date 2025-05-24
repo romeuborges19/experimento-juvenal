@@ -1,0 +1,1 @@
+Reprodução de parte do experimento desenvolvido no artigo "Predicting Stock Price Falls Using News Data: Evidence from the Brazilian Market".
